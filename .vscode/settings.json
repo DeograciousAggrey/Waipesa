@@ -4,6 +4,9 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "nuxt.isNuxtApp": true
+  "nuxt.isNuxtApp": true,
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
   // "eslint.validate": ["javascript"]
 }
